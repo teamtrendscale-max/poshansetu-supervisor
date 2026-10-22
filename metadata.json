@@ -1,0 +1,6 @@
+{
+  "name": "Poshan Setu - Supervisor Command Center",
+  "description": "Real-time Anganwadi & CDPO Supervisor Command Center for Anand District, Gujarat - monitoring live stock, geotagged meals, DBT bill reimbursements, and Setu Share transfers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
